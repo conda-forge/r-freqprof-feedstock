@@ -1,11 +1,11 @@
-About r-freqprof
-================
+About r-freqprof-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-freqprof-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/AIBRT/FreqProf
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-freqprof-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools for generating an informative type of line graph, the frequency profile, which allows single behaviors, multiple behaviors, or the specific behavioral patterns of individual subjects to be graphed from occurrence/nonoccurrence behavioral data.
 
